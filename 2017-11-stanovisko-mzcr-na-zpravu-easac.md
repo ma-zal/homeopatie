@@ -1,4 +1,4 @@
-Stanovisto Ministerstva zdravotnictví České republiky na potvrzení EASAC, že homeopatie nefunguje
+Stanovisko Ministerstva zdravotnictví České republiky na potvrzení EASAC, že homeopatie nefunguje
 -------------------------------------------------------------------------------------------------
 
 **Požádal o vyjádření Ministerstvo zdravotnictví, zda a případně jak bude reflektovat
@@ -6,10 +6,11 @@ Stanovisto Ministerstva zdravotnictví České republiky na potvrzení EASAC, ž
 jejich závěru o nefunkčnosti a následných doporučení. 
 Zároveň jsem se ptal, zda se v tomto směru v ČR prosazuje jakoukoliv cestou změna současného stavu.**
 
-Odpověď veřejňuji v plném změní.
+Odpověď zveřejňuji v plném změní.
 
 
 Dne 20. 11. 2017 v 12:55 Šebor Václav Mgr. napsal(a):
+
 >
 > Vážený pane Žaloudku,
 >

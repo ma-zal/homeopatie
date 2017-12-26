@@ -1,5 +1,5 @@
-Iniciativa upozornit na nekonzistenci mezi právní kvalifickací homeopatických přípravků a poznatky současné vědy
-================================================================================================================ 
+Iniciativa upozornit na nekonzistenci mezi právní kvalifikací homeopatických přípravků a poznatky současné vědy
+=============================================================================================================== 
 
 Cíle projektu
 -------------
@@ -18,7 +18,7 @@ Zpráva Vědecké rady evropských akademií: Homeopatie nefunguje
 [Homeopathy: harmful or helpful? European scientists recommend an evidence-based approach (EASAC, 20.9.2017)](http://www.easac.eu/home/press-releases/detail-view/article/homeopathy.html),
 která oficiálně hodnotí, že **neexistují žádné důkazy o tom, že homeopatické produkty fungují**. 
 
-Akademie věd České republicky vydala český překlad: [Homeopatie: škodí, nebo pomáhá? (AV ČR, 12.10.2017)](http://www.avcr.cz/cs/pro-media/aktuality/Homeopatie-skodi-nebo-pomaha/)
+Akademie věd České republiky vydala český překlad: [Homeopatie: škodí, nebo pomáhá? (AV ČR, 12.10.2017)](http://www.avcr.cz/cs/pro-media/aktuality/Homeopatie-skodi-nebo-pomaha/)
 
 
 #### Kdo je EASAC?  
@@ -32,7 +32,7 @@ vytvářejí či ovlivňují v rámci evropských institucí._ [Zdroj: [AV ČR](
 Více viz [What is EASAC](http://www.easac.eu/about-easac/what-is-easac.html).
 
 
-Stanovista státních institucí České republiky na potvrzení EASAC, že homeopatie nefunguje
+Stanoviska státních institucí České republiky na potvrzení EASAC, že homeopatie nefunguje
 -----------------------------------------------------------------------------------------
 
 Požádal jsem o vyjádření _"Zda a případně jak bude Ministerstvo zdravotnictví reflektovat zprávu EASAC
@@ -69,7 +69,7 @@ Více viz: [Plné znění stanoviska Ministerstva zdravotnictví](2017-11-stanov
 Závěr
 -----
 
-Státní orgány nevyvíjejí žádnou iniciaticu, která by vedla k narovnání stavu mezi pohlížením na homeopatické přípravky z pohledu zákona
+Státní orgány nevyvíjejí žádnou iniciativu, která by vedla k narovnání stavu mezi pohlížením na homeopatické přípravky z pohledu zákona
 a pohledem, jaký zaujala věda.
 
  

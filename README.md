@@ -46,7 +46,7 @@ a následných doporučení. Zároveň zda se v tomto směru v ČR prosazuje jak
 >
 > _[Autor: Mgr. Hana Pavlíčková, Tiskové a informační oddělení SÚKL, 9. 11. 2017]_
 
-Více viz: [Plné znění stanoviska SÚKL](2017-11 Stanovisko SUKL na zpravu EASAC.md).
+Více viz: [Plné znění stanoviska SÚKL](blob/master/2017-11-stanovisko-sukl-na-zpravu-easac.md).
 
 
 ### Stanovisko ministerstva zdravotnictví
@@ -63,7 +63,7 @@ Více viz: [Plné znění stanoviska SÚKL](2017-11 Stanovisko SUKL na zpravu EA
 > _[Autor: Odbor farmacie Ministerstva zdravotnictví, 11/2017]_
 
 
-Více viz: [Plné znění stanoviska Ministerstva zdravotnictví](2017-11 Stanovisko MZCR na zpravu EASAC.md).
+Více viz: [Plné znění stanoviska Ministerstva zdravotnictví](blob/master/2017-11-stanovisko-mzcr-na-zpravu-easac.md).
 
 
 Závěr

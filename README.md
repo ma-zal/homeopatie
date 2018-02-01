@@ -5,7 +5,7 @@ Cíle projektu
 -------------
 
 - Upozornit státní instituce na zprávu
-  [Homeopathy: harmful or helpful? European scientists recommend an evidence-based approach (EASAC, 20.9.2017)](http://www.easac.eu/home/press-releases/detail-view/article/homeopathy.html).
+  [Homeopathy: harmful or helpful? European scientists recommend an evidence-based approach (EASAC, 20.9.2017)](https://easac.eu/press-releases/details/news/homeopathy-harmful-or-helpful-european-scientists-recommend-an-evidence-based-approach/).
 
 - Motivovat státní instituce k diskusi o možných změnách současných zákonů, 
   které obsahují speciální výjimky pro homeopatické přípravky. 
@@ -15,7 +15,7 @@ Zpráva Vědecké rady evropských akademií: Homeopatie nefunguje
 -------------------------------------------------------------
 
 [EASAC](http://www.easac.eu/) (European Academies Science Advisory Council – Poradní vědecká rada evropských akademií) zveřejnila zprávu
-[Homeopathy: harmful or helpful? European scientists recommend an evidence-based approach (EASAC, 20.9.2017)](http://www.easac.eu/home/press-releases/detail-view/article/homeopathy.html),
+[Homeopathy: harmful or helpful? European scientists recommend an evidence-based approach (EASAC, 20.9.2017)](https://easac.eu/press-releases/details/news/homeopathy-harmful-or-helpful-european-scientists-recommend-an-evidence-based-approach/),
 která oficiálně hodnotí, že **neexistují žádné důkazy o tom, že homeopatické produkty fungují**. 
 
 Akademie věd České republiky vydala český překlad: [Homeopatie: škodí, nebo pomáhá? (AV ČR, 12.10.2017)](http://www.avcr.cz/cs/pro-media/aktuality/Homeopatie-skodi-nebo-pomaha/)
